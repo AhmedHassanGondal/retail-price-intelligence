@@ -45,7 +45,7 @@
 ## 📁 Project Structure
 
 ```
-Retail-Price-Intelligence/
+retail-price-intelligence/
 ├── scrapers/           ← Source-specific scrapers
 ├── pipeline/           ← Data cleaning, normalisation & enrichment
 ├── data/               ← Raw & processed price datasets
@@ -64,8 +64,8 @@ Retail-Price-Intelligence/
 ### 1 — Clone & install
 
 ```bash
-git clone https://github.com/AhmedHassanGondal/Retail-Price-Intelligence.git
-cd Retail-Price-Intelligence
+git clone https://github.com/AhmedHassanGondal/retail-price-intelligence.git
+cd retail-price-intelligence
 pip install -r requirements.txt
 ```
 
